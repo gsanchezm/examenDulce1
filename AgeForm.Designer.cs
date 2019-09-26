@@ -55,11 +55,10 @@
             // lblEdad
             // 
             this.lblEdad.AutoSize = true;
-            this.lblEdad.Location = new System.Drawing.Point(109, 158);
+            this.lblEdad.Location = new System.Drawing.Point(33, 155);
             this.lblEdad.Name = "lblEdad";
-            this.lblEdad.Size = new System.Drawing.Size(46, 17);
+            this.lblEdad.Size = new System.Drawing.Size(0, 17);
             this.lblEdad.TabIndex = 2;
-            this.lblEdad.Text = "label1";
             // 
             // AgeForm
             // 

@@ -9,3 +9,4 @@ C:\Users\gilsa\source\repos\ExamenPrimerPAacial\obj\Debug\ExamenPrimerParcial.cs
 C:\Users\gilsa\source\repos\ExamenPrimerPAacial\obj\Debug\ExamenPrimerParcial.csproj.CoreCompileInputs.cache
 C:\Users\gilsa\source\repos\ExamenPrimerPAacial\obj\Debug\ExamenPrimerPAacial.exe
 C:\Users\gilsa\source\repos\ExamenPrimerPAacial\obj\Debug\ExamenPrimerPAacial.pdb
+C:\Users\gilsa\source\repos\ExamenPrimerPAacial\obj\Debug\ExamenPrimerPAacial.ChangeCalculatorForm.resources
