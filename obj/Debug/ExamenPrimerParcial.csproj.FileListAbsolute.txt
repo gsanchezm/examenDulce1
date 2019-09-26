@@ -1,0 +1,11 @@
+C:\Users\gilsa\source\repos\ExamenPrimerPAacial\bin\Debug\ExamenPrimerPAacial.exe.config
+C:\Users\gilsa\source\repos\ExamenPrimerPAacial\bin\Debug\ExamenPrimerPAacial.exe
+C:\Users\gilsa\source\repos\ExamenPrimerPAacial\bin\Debug\ExamenPrimerPAacial.pdb
+C:\Users\gilsa\source\repos\ExamenPrimerPAacial\obj\Debug\ExamenPrimerParcial.csprojAssemblyReference.cache
+C:\Users\gilsa\source\repos\ExamenPrimerPAacial\obj\Debug\ExamenPrimerPAacial.AgeForm.resources
+C:\Users\gilsa\source\repos\ExamenPrimerPAacial\obj\Debug\ExamenPrimerPAacial.Form1.resources
+C:\Users\gilsa\source\repos\ExamenPrimerPAacial\obj\Debug\ExamenPrimerPAacial.Properties.Resources.resources
+C:\Users\gilsa\source\repos\ExamenPrimerPAacial\obj\Debug\ExamenPrimerParcial.csproj.GenerateResource.cache
+C:\Users\gilsa\source\repos\ExamenPrimerPAacial\obj\Debug\ExamenPrimerParcial.csproj.CoreCompileInputs.cache
+C:\Users\gilsa\source\repos\ExamenPrimerPAacial\obj\Debug\ExamenPrimerPAacial.exe
+C:\Users\gilsa\source\repos\ExamenPrimerPAacial\obj\Debug\ExamenPrimerPAacial.pdb
